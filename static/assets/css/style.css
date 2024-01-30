@@ -241,7 +241,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/studio.jpg") top center;
+  background: url("../img/code.jpg") center;
   background-size: cover;
 }
 
@@ -1103,11 +1103,4 @@ section {
     width: auto;
     padding-right: 20px 15px;
   }
-}
-.Hire{
-  margin-right: auto;
-  border-right-color: #31d2f2;
-  border-top-color: #0d6efd;
-  border-left-color: white;
-  border-bottom-color: #040b14;
 }
