@@ -86,3 +86,5 @@ def signup(request, ):
     return render(request, "signup.html")
 
 
+def internshipdetails(request):
+    return render(request, 'intern.html')
